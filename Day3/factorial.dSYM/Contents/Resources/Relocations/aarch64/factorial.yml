@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/bahadirsulukan/Desktop/MyProjects/Cplusplus-Practice/Day3/factorial'
+relocations:     []
+...
