@@ -2,6 +2,8 @@
 
 using namespace std;
 
+// Dieses Programm liest eine Reihe von positiven Zahlen ein und gibt den Mindestwert zurück.
+
 int main()
 {
     int m;
