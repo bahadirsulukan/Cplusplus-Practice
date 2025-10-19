@@ -2,6 +2,8 @@
 
 using namespace std;
 
+// Zinseszinsberechnung
+
 int main()
 {
     double Anfangskapital, Zinssatz;
