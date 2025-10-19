@@ -2,6 +2,8 @@
 #include <iomanip>
 using namespace std;
 
+// Dieses Programm berechnet die Quadratwurzel einer positiven Zahl mit der gewünschten Genauigkeit.
+
 int main()
 {
     long double x, a;
