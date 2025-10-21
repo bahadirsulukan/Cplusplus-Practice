@@ -5,6 +5,8 @@
 
 using namespace std;
 
+// Coordinate distance calculator
+
 int main()
 {
     int x1, x2, y1, y2;
