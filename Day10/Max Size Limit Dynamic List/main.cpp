@@ -3,6 +3,8 @@
 
 using namespace std;
 
+// The program manages a dynamic list of integers with a maximum size limit.
+
 int main()
 {
     char auswahl;
