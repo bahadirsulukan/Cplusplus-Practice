@@ -5,7 +5,7 @@
 using namespace std;
 
 // The program sorts a list of numbers entered by the user in ascending order
-//
+// and checks if the sorting was successful.
 
 int main()
 {
