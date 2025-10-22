@@ -3,6 +3,9 @@
 
 using namespace std;
 
+// The program calculates and displays the monthly costs for different phone contracts
+// based on varying usage in minutes
+
 int main()
 {
 
