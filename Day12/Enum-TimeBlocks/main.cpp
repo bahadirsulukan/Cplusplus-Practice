@@ -2,6 +2,8 @@
 
 using namespace std;
 
+// The following program enums represent time blocks and days of the week.
+
 enum Block
 {
     Mo1,
