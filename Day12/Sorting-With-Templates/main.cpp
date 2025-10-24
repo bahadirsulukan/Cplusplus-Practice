@@ -5,8 +5,6 @@
 
 using namespace std;
 
-// The Programm : Werte eingeben, ausgeben, suchen und sortieren mit Templates
-
 // Fürs erste Menü : Wert eingeben
 template <typename T> // T ist ein Platzhalter
 void EingabeWerte(vector<T> &werte)
