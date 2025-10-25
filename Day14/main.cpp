@@ -6,6 +6,8 @@
 
 using namespace std;
 
+// The following Programm is about Inheritance in C++
+
 class Lebensmittel
 { // Basis Klasse ist "Lebensmittel"
 public:
