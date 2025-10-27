@@ -2,6 +2,13 @@
 
 using namespace std;
 
+// The program simulates a dice game where two numbers are inputted.
+// It checks for special conditions: if both numbers are the same (a "Pasch")
+// or if the combination is (1,2) or (2,1) (a "Maexchen").
+// Otherwise, it simply outputs the two numbers concatenated.
+
+// this is a simple dice game simulation
+
 int main()
 {
     int Zahl1, Zahl2;
