@@ -2,6 +2,8 @@
 
 using namespace std;
 
+// The following code forms a simple C++ program that defines a class 'Punkt' to represent a point in 2D space.
+
 class Punkt // Klasse erstellen
 {
 
