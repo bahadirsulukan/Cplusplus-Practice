@@ -1,6 +1,9 @@
 #include <iostream>
 
 using namespace std;
+
+// The Programm is for demonstrating the use of private and public access specifiers in a class.
+
 class Punkt
 {
 private:
