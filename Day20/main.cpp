@@ -1,5 +1,7 @@
 #include <iostream>
 
+// Theme: Friend Funktionen und Friend Klassen
+
 //// Operator benutzen ////
 
 using namespace std;
