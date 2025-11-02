@@ -2,6 +2,8 @@
 
 using namespace std;
 
+// The following class demonstrates the use of 'this' pointer in C++
+
 class A
 {
 private:
