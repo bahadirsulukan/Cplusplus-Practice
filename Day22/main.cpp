@@ -2,6 +2,8 @@
 
 //// POINTERLAR VE REFERANSLAR ////
 
+// The following code is for plane direction calculations
+
 using namespace std;
 
 int ucaginYonBilgileriHesaplama(int x_)
