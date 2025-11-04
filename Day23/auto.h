@@ -2,8 +2,6 @@
 #define AUTO_H
 #include <iostream>
 
-#endif // AUTO_H
-
 using namespace std;
 
 // OOP nin en önemli özelligi olan nesneyi main.cpp nin disinda olusturabilmek icin bir header dosyasi olusturuyoruz ve daha sonrasinda icerisine bir class-
@@ -43,3 +41,5 @@ private:
     string Wo;
     string Aufzug;
 };
+
+#endif // AUTO_H
