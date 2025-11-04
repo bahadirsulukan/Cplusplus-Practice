@@ -1,4 +1,4 @@
-#include "Auto.h"
+#include "auto.h"
 
 // Header dosyasinin icindeki class sinifinin icindeki fonksiyonlarin icerigini dolduruyoruz daha sonrasinda main.cpp de kullanabilmek icin
 
