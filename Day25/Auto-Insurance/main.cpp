@@ -1,7 +1,7 @@
 #include "versicherer.h"
 #include <iostream>
 
-// The following Programm is for Auto Insurance Company
+// The following Program is for Auto Insurance Company
 
 using namespace std;
 
