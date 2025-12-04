@@ -1,6 +1,6 @@
-#include "gebaeude.h"
-#include "wohnung.h"
-#include "zimmer.h"
+#include "Gebaeude.h"
+#include "Wohnung.h"
+#include "Zimmer.h"
 #include <iostream>
 #include <vector>
 #include <algorithm>
